@@ -7,7 +7,6 @@ sudo apt-get install curl wget apt-transport-https virtualbox virtualbox-ext-pac
 
 echo "1st install docker"
 
-// sudo apt update && apt -y install docker.io
 sudo apt-get update
 sudo apt-get install ca-certificates curl gnupg
 sudo install -m 0755 -d /etc/apt/keyrings
