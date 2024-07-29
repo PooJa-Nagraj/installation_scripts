@@ -2,6 +2,9 @@
   
     docker run -d --name sonarqube -p 9000:9000 -p 9092:9092 sonarqube
 
+https://gist.github.com/dmancloud/0abf6ad0cb16e1bce2e907f457c8fce9
+
+https://community.sonarsource.com/t/sonarqube-service-is-active-on-server-but-url-is-not-working-on-browser/97734
 
 #Install locally
 
